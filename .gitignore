@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/RealityHackDemo/[Ll]ibrary/
+/RealityHackDemo/[Ll]ogs/
+/RealityHackDemo/[Uu]ser[Ss]ettings/
+/RealityHackDemo//[Aa]ssets/TextMesh Pro/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
